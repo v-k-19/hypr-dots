@@ -13,7 +13,7 @@
 
 <div align="center">
 
-![hyde_banner](https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyde_banner.png)
+![hyde_banner](https://raw.githubusercontent.com/v-k-19/hypr-dots/refs/heads/main/Source/assets/hypr-dot's(final).png)
 
 <br>
 
