@@ -1,8 +1,6 @@
 ###### *<div align="right"><sub>// design by t2</sub></div>*
 <div align = center>
     <a href="https://discord.com/channels/1304712838740312136/1304712838740312139">
-
-    </a>
 </div>
 
 
