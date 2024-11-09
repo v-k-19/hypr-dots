@@ -5,11 +5,6 @@
     </a>
 </div>
 
-<!--
-<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=>
-
-<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=>
--->
 
 <div align="center">
 
