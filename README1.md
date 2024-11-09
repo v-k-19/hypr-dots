@@ -1,8 +1,7 @@
 ###### *<div align="right"><sub>// design by t2</sub></div>*
 <div align = center>
     <a href="https://discord.com/channels/1304712838740312136/1304712838740312139">
-<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https://img.shields.io/badge/hyprland-blue?style=for-the-badge&logo=discord&logoSize=auto&label=HYPR-DOT'S&labelColor=ebbcba&color=c79bf0
->
+<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https://img.shields.io/badge/hyprland-blue?style=for-the-badge&logo=discord&logoSize=auto&label=HYPR-DOT'S&labelColor=ebbcba&color=c79bf0>
     </a>
 </div>
 
