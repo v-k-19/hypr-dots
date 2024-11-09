@@ -11,7 +11,7 @@ Thank you for your interest in contributing to Community Standards! We welcome a
    - Use the following command to clone your forked repository to your local machine.
 
      ```bash
-     git clone https://github.com/prasanthrangan/hyprdots.git
+     git clone https://github.com/v-k-19/hypr-dots.git
      ```
 
 3. Create a new branch for your changes.
