@@ -62,7 +62,7 @@ For more details, please refer to the [installation wiki](https://github.com/pra
 To update HyDE, you will need to pull the latest changes from GitHub and restore the configs by running the following commands:
 
 ```shell
-cd ~/HyDE/Scripts
+cd ~/hypr-dots/Scripts
 git pull
 ./install.sh -r
 ```
