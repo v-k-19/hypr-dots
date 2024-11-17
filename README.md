@@ -40,7 +40,7 @@ To install, execute the following commands:
 
 ```shell
 pacman -S --needed git base-devel
-git clone --depth 1 https://github.com/v-k-19/hypr-dots.git ~/HyDE
+git clone --depth 1 https://github.com/v-k-19/hypr-dots.git 
 cd ~/hypr-dots/Scripts
 ./install.sh
 ```
